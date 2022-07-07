@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fullbright (currently uncomfortable displaying my real name)
 - 👀 I’m interested in ... Rust as a language, as well as microcontrollers in Assembly. I do not know enough about coding to fully understand what I am interested in yet. This will be updated when possible.
 - 🌱 I’m currently learning ... Rust (and formally studying electrical engineering)
-- 💞️ I’m looking to collaborate on ... Nothing so far.
+- 💞️ I’m looking to collaborate on ... Nothing so far. (I have no idea why my profile lists 3 contributions)
 - 📫 How to reach me ... currently remaining private.
 
 <!---
